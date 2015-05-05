@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<TestFlightTeamPreferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <teamAPIKey>382d071c11656ce98851e08a146c8842_MzYwNzAwMjAxNC0wMy0zMCAwNDowODoyNS43NTI4ODc</teamAPIKey>
+  <distributionLists>
+    <string>Devs</string>
+    <string>QA</string>
+  </distributionLists>
+  <buildPath>builds/iPhone</buildPath>
+</TestFlightTeamPreferences>

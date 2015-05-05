@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<TestFlightUserPreferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <userAPIKey>be04c2ba9b8a9b0bfaf89a4349a27d64_ODYyMzQ2MjAxMy0wMi0wNCAwOTowMzo1Ni43NTYyMjg</userAPIKey>
+  <activeDistributionLists>
+    <string>Devs</string>
+    <string>QA</string>
+  </activeDistributionLists>
+  <replaceSameBuilds>true</replaceSameBuilds>
+  <notifyUsers>false</notifyUsers>
+  <lastBuildAppTime>30</lastBuildAppTime>
+  <lastPackageIpaTime>5</lastPackageIpaTime>
+  <lastUploadTime>60</lastUploadTime>
+  <messageHistory>
+    <string>Test1</string>
+  </messageHistory>
+  <useTestFlightSDK>true</useTestFlightSDK>
+  <xCodeSchema>N/A</xCodeSchema>
+  <dSYMBuild>true</dSYMBuild>
+  <developerIdentity>iPhone Developer</developerIdentity>
+</TestFlightUserPreferences>
